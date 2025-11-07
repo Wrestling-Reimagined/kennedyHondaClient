@@ -14,14 +14,14 @@ const CarShowcase = () => {
       id: 1,
       model: "Honda Civic",
       image:
-        "https://images.unsplash.com/photo-1606664515524-eb61d6cf4a0c?w=800&h=600&fit=crop",
+        "https://ik.imagekit.io/wtrbwz/Gemini_Generated_Image_chzbhdchzbhdchzb.png?updatedAt=1762550134013",
       description: "Reliable, fuel-efficient, and perfect for daily commutes",
     },
     {
       id: 2,
       model: "Honda Accord",
       image:
-        "https://images.unsplash.com/photo-1606664515523-eb61d6cf4a0c?w=800&h=600&fit=crop",
+        "https://ik.imagekit.io/wtrbwz/Gemini_Generated_Image_sj9oclsj9oclsj9o.png?updatedAt=1762550042728",
       description:
         "Sophisticated sedan with premium features and spacious interior",
     },
@@ -29,7 +29,7 @@ const CarShowcase = () => {
       id: 3,
       model: "Honda CR-V",
       image:
-        "https://images.unsplash.com/photo-1606664515522-eb61d6cf4a0c?w=800&h=600&fit=crop",
+        "https://ik.imagekit.io/wtrbwz/Gemini_Generated_Image_kt0s8lkt0s8lkt0s.png?updatedAt=1762550050092",
       description: "Versatile SUV perfect for families and adventures",
     },
   ];
